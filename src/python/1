@@ -1,0 +1,22 @@
+class Solution:
+    def wordBreak(self, s, wordDict):
+        """
+        :type s: str
+        :type wordDict: List[str]
+        :rtype: List[str]
+        """
+        res= []
+        def findWord(stri,wordDict,path,res):
+            path2 = collections.defaultdict(str)
+            for i in range(len(stri)):
+                if stri[:i] in wordDict:
+                    if i < len(stri) -1:
+                        path2[stri[:i]] = path+stri[:i] +' '
+                        findWord(stri[i+1:],wordDict,path2[stri[:i]],res)
+                    else:
+                        path2[stri[:i]] = path+stri[:i]
+                        res.append(path2[stri[:i]])
+        findWord(s,wordDict,'',res)
+        return res
+a = Solution()
+a.wordBreak('catsanddog',['cat', 'cats', 'and', 'sand', 'dog'])
