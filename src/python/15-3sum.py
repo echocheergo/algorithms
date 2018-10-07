@@ -25,4 +25,4 @@ class Solution:
         if 0 in num and num[0] > 2:
             res.add((0,0,0))
         return list(res)
-                    
+

@@ -1,0 +1,6 @@
+5
+bought 10 AAPL val $300
+sold 6 AAPL val $250
+bought 5 SPY val $50
+bought 5 SPY val $75
+bought 20 BND val $145

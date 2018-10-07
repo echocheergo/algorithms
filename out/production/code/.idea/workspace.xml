@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d88e57be-adb0-4f4a-b8a3-eadca198784c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/AllUniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ArrayDeduplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ArrayDeduplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ArrayDeduplication3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ArrayDeduplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/BTPathSumTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/BinaryTreeZigZagLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/CheckLinkedListIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/CutWood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/FriendCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LargestAndSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LargestAndSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LargestNumSmallerInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LargestSubArrSumWithBoundary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/LongestSubstringwithAtMostTwoDistinctCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MaxPathSumBTLeaf2Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MaxPathSumBTNode2Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MergeKLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MergeSortLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MergeStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/MinimumCutsPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/Move0sToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ReverseLinkedListInPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/SerializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/ShortestWordDistance3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/SortWith2Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/SortWith3Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/SpiralOrderTraverse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/StringAbbreviationMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/Uber3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberBasicCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberBasicCalculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberBasicCalculator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberExclusiveTimeOfFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberFindFirstAndLastPositionInSortedArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberFractionToRecurringDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberLRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberLargestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberLetterCombinationOfPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberMeetingRoom1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberMeetingRoom2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberMergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberMinimunWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberNumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberNumberOfIslands2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberP2SortSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberPalindromePermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberPalindromePermutation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberReverseLinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberSolveSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberWordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberWordBreak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javasrc/UberWordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/GoogleOA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/GoogleOA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/IndeedOA18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/LinkedInOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oa/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadpool/CheckSites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/CompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Decompress1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/Decompress1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Encode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/Encode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/IsMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/RegularExpressionMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/LengthOfLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/LargestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/LongesrCross1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/LongesrCross1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/LongestUniqueSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/LongestUniqueSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/MaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/MaxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/MaxSubArr53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/MaxSubArr53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/MedianTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/MedianTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/MergeKSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/MergeKSortedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/PaintHouse256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/PaintHouse256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/buyAndSellStock121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javasrc/buyAndSellStock121.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UberWordBreak2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/UberWordBreak2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortestWordDistance3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/ShortestWordDistance3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedInOA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/LinkedInOA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckSites.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threadpool/CheckSites.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortWith3Stacks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/SortWith3Stacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UberNumberOfIslands.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/UberNumberOfIslands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UberNumberOfIslands2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javasrc/UberNumberOfIslands2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>split</find>
+      <find>greater</find>
+      <find>LISTNODE</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/javasrc/UberBasicCalculator2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberPalindromePermutation.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberMergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberPalindromePermutation2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberMeetingRoom1.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberBasicCalculator3.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberBasicCalculator1.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberMeetingRoom2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberFlattenNestedListIterator.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/Uber3Sum.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberMinStack.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberWordSearch.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/BinaryTreeZigZagLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberLetterCombinationOfPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberMinimunWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/CutWood.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/MergeStones.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/BTPathSumTarget.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberFindFirstAndLastPositionInSortedArr.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberFlatenNestedListIterator.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberLargestConsecutiveSequence.java" />
+        <option value="$PROJECT_DIR$/src/oa/IndeedOA18.java" />
+        <option value="$PROJECT_DIR$/../full-time/Indeed/Indeed OA/OA18.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberLRUCache.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/LFUCache.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberSolveSudoku.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberWordBreak2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/Trie.java" />
+        <option value="$PROJECT_DIR$/src/oa/QuoraOA.java" />
+        <option value="$PROJECT_DIR$/src/oa/Solution.java" />
+        <option value="$PROJECT_DIR$/src/oa/GoogleOA1.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/LongestSubstringwithAtMostTwoDistinctCharacters.java" />
+        <option value="$PROJECT_DIR$/src/oa/GoogleOA2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/FriendCircle.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/LargestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/oa/LinkedInOA.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/CheckSite.java" />
+        <option value="$PROJECT_DIR$/src/threadpool/CheckSites.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/SortWith3Stacks.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberNumberOfIslands2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/ShortestWordDistance3.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/UberReverseLinkedList2.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/SerializeBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/oa/Main.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/Test.java" />
+        <option value="$PROJECT_DIR$/src/javasrc/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="58d84e3e:PackageViewProjectNode" />
+              <item name="code" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="code" type="58d84e3e:PackageViewProjectNode" />
+              <item name="code" type="616d4139:PackageViewModuleNode" />
+              <item name="javasrc" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="code" type="58d84e3e:PackageViewProjectNode" />
+              <item name="code" type="616d4139:PackageViewModuleNode" />
+              <item name="python" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javasrc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="javasrc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="CheckSites" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.CheckSites" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javasrc.Main" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javasrc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oa.Main" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.Main" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oa.Solution" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.CheckSites" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.CheckSites" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88e57be-adb0-4f4a-b8a3-eadca198784c" name="Default" comment="" />
+      <created>1535924888810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535924888810</updated>
+      <workItem from="1535924895404" duration="14347000" />
+      <workItem from="1536526515927" duration="51358000" />
+      <workItem from="1537543636445" duration="11335000" />
+      <workItem from="1537841380842" duration="1035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78075000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32911393" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32948583" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.15" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Learn" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.34102756" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3298585" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32688013" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.15" />
+      <window_info id="Learn" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.18763961" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.28369322" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32948583" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32756633" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javasrc/UberP2SortSquare.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javasrc/UberMinStack.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javasrc/UberMinStack.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javasrc/UberLargestConsecutiveSequence.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javasrc/UberLargestConsecutiveSequence.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oa/Main.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oa/Solution.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oa/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oa/Solution.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oa/GoogleOA2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>ind</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stack2.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javasrc/MaxPathSumBTNode2Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/BTPathSumTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberFlatenNestedListIterator.java" />
+    <entry file="file://$PROJECT_DIR$/../full-time/Indeed/Indeed OA/OA18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="301" column="34" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="2203" column="34" selection-start-line="2203" selection-start-column="34" selection-end-line="2203" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/LFUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberLRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="29" lean-forward="true" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/MaxPathSumBTLeaf2Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/RegularExpressionMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberSolveSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberExclusiveTimeOfFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberMergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberMinimunWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberBasicCalculator3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/Uber3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/IndeedOA18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="129" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/QuoraOA.java" />
+    <entry file="file://$PROJECT_DIR$/src/javasrc/LongestSubstringwithAtMostTwoDistinctCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/GoogleOA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/GoogleOA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/FriendCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/LargestSubArrSumWithBoundary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberWordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/CheckLinkedListIsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/MinimumCutsPalindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/LongestUniqueSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/LargestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberLargestConsecutiveSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberFindFirstAndLastPositionInSortedArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="904" column="18" selection-start-line="904" selection-start-column="18" selection-end-line="904" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/LinkedInOA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadpool/CheckSites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/SortWith3Stacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberNumberOfIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberNumberOfIslands2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberReverseLinkedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2284#2285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/BinaryTreeZigZagLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="40" selection-start-line="40" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/ShortestWordDistance3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/SerializeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/UberWordBreak2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javasrc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

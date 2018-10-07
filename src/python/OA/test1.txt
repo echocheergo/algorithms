@@ -1,0 +1,4 @@
+3
+4 AAPL val $100 each
+10 SPY val $200 each
+20 BND val $150 each
